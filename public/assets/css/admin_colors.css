@@ -1,0 +1,114 @@
+
+.btn-primary,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    color: #fff;
+    background-color: #397bbe;
+    border-color: #397bbe;
+}
+
+.btn-primary:hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+	background-color: #1963ad;
+	border-color: #1963ad;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:not(:disabled):not(.disabled).active,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:not(:disabled):not(.disabled):active,
+.dataTables_wrapper .dataTables_paginate .show>.dropdown-toggle.paginate_button.current,
+.show>.btn-primary.dropdown-toggle {
+	background-color: #1963ad;
+	border-color: #1963ad;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    background-color: #1963ad;
+}
+
+.text-primary {
+    color: #397bbe!important;
+}
+
+h1 {
+    color: #397bbe!important;
+}
+
+.btn-link {
+    color: #397bbe;
+}
+
+.btn-outline-primary {
+    color: #397bbe;
+    border-color: #397bbe;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #397bbe;
+    border-color: #397bbe;
+}
+
+.btn:hover,
+.dataTables_wrapper
+.dataTables_paginate
+.paginate_button:hover {
+    color: #1963ad;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #397bbe;
+    border-color: #397bbe;
+}
+
+.page-link:hover { color: #397bbe; }
+
+a { color: #397bbe; }
+a:hover { color: #1963ad; }
+
+.table-hover tbody tr:hover,
+#crudTable tbody tr:hover {
+	background-color: #e7eaee;
+}
+
+.sidebar.sidebar-pills .nav-link.active .nav-icon,
+.sidebar.sidebar-pills .nav-link:hover .nav-icon,
+.sidebar.sidebar-pills .nav-link.active,
+.sidebar.sidebar-pills .nav-link:hover,
+.sidebar-pills .nav-link:hover .nav-icon {
+    color: #397bbe!important;
+}
+
+.card.bg-primary {
+    border-color: #397bbe;
+}
+
+.bg-primary {
+    background-color: #397bbe!important;
+}
+
+.daterangepicker .ranges li.active,
+.daterangepicker td.active, .daterangepicker td.active:hover {
+    background-color: #397bbe!important;
+}
+
+.pace .pace-progress {
+	background: #397bbe;
+}
+
+.dataTables_wrapper .dataTables_filter input:focus,
+.dataTables_wrapper .dataTables_length select:focus,
+.form-control:focus{
+    border-color: #397bbe;
+    box-shadow: 0 0 0 2px #397bbe2b;
+}
+.bg-blue2{
+    background-color: #2196f3!important
+}
+.bg-blue3{
+    background-color: #00bcd4!important;
+}
